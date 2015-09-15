@@ -1,0 +1,1 @@
+#colorhash [![GoDoc](https://godoc.org/github.com/kavu/colorhash?status.svg)](https://godoc.org/github.com/kavu/colorhash)[![Build Status](https://img.shields.io/travis/kavu/colorhash.svg?style=flat)](https://travis-ci.org/kavu/colorhash)
