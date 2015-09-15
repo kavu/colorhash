@@ -1,1 +1,1 @@
-#colorhash [![GoDoc](https://godoc.org/github.com/kavu/colorhash?status.svg)](https://godoc.org/github.com/kavu/colorhash)[![Build Status](https://img.shields.io/travis/kavu/colorhash.svg?style=flat)](https://travis-ci.org/kavu/colorhash)
+# colorhash [![GoDoc](https://godoc.org/github.com/kavu/colorhash?status.svg)](https://godoc.org/github.com/kavu/colorhash) [![Build Status](https://img.shields.io/travis/kavu/colorhash.svg?style=flat)](https://travis-ci.org/kavu/colorhash) [![MIT](https://img.shields.io/badge/license-MIT-green.svg)](https://opensource.org/licenses/MIT)
